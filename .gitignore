@@ -1,0 +1,5 @@
+.vscode/
+scripts/__pycache__/
+results/__pycache__/
+data/processed/AMZN_clean_prices.csv
+*.DS_Store
